@@ -1,0 +1,8 @@
+#!/usr/local/bin/newlisp
+
+(println (main-args))
+(println (sys-info))
+
+(exit)
+
+
